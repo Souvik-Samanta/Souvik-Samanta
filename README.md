@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Souvik-Samanta
+- 👋 Hi, I’m Souvik Samanta
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
 
